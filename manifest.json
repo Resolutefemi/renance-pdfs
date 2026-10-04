@@ -782,5 +782,1627 @@
     "papers": 1
    }
   }
+ },
+ "fupre": {
+  "name": "Federal University of Petroleum Resources, Effurun",
+  "short": "FUPRE",
+  "courses": {
+   "ACP314": {
+    "title": "ACP 314 — Past Questions & Materials",
+    "papers": 2
+   },
+   "AMS102": {
+    "title": "AMS 102 — Past Questions & Materials",
+    "papers": 1
+   },
+   "BCH201": {
+    "title": "BCH 201 — Past Questions & Materials",
+    "papers": 2
+   },
+   "BIO101": {
+    "title": "BIO 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE221": {
+    "title": "CHE 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE222": {
+    "title": "CHE 222 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE311": {
+    "title": "CHE 311 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE312": {
+    "title": "CHE 312 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE313": {
+    "title": "CHE 313 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE315": {
+    "title": "CHE 315 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHE316": {
+    "title": "CHE 316 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE321": {
+    "title": "CHE 321 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE323": {
+    "title": "CHE 323 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE411": {
+    "title": "CHE 411 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE412": {
+    "title": "CHE 412 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE416": {
+    "title": "CHE 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE510": {
+    "title": "CHE 510 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE511": {
+    "title": "CHE 511 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE512": {
+    "title": "CHE 512 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHE513": {
+    "title": "CHE 513 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE515": {
+    "title": "CHE 515 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE521": {
+    "title": "CHE 521 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHE525": {
+    "title": "CHE 525 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM102": {
+    "title": "CHM 102 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM111": {
+    "title": "CHM 111 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CHM112": {
+    "title": "CHM 112 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM121": {
+    "title": "CHM 121 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM211": {
+    "title": "CHM 211 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM212": {
+    "title": "CHM 212 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM213": {
+    "title": "CHM 213 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM214": {
+    "title": "CHM 214 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM221": {
+    "title": "CHM 221 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CHM222": {
+    "title": "CHM 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM223": {
+    "title": "CHM 223 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM224": {
+    "title": "CHM 224 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM310": {
+    "title": "CHM 310 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM311": {
+    "title": "CHM 311 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM313": {
+    "title": "CHM 313 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM315": {
+    "title": "CHM 315 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM316": {
+    "title": "CHM 316 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM319": {
+    "title": "CHM 319 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM410": {
+    "title": "CHM 410 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM411": {
+    "title": "CHM 411 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM412": {
+    "title": "CHM 412 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM413": {
+    "title": "CHM 413 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM414": {
+    "title": "CHM 414 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CHM416": {
+    "title": "CHM 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM417": {
+    "title": "CHM 417 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM419": {
+    "title": "CHM 419 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM422": {
+    "title": "CHM 422 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM424": {
+    "title": "CHM 424 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM426": {
+    "title": "CHM 426 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM427": {
+    "title": "CHM 427 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM428": {
+    "title": "CHM 428 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CHM429": {
+    "title": "CHM 429 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CHM432": {
+    "title": "CHM 432 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CHM462": {
+    "title": "CHM 462 — Past Questions & Materials",
+    "papers": 1
+   },
+   "COS101": {
+    "title": "COS 101 — Past Questions & Materials",
+    "papers": 3
+   },
+   "COS102": {
+    "title": "COS 102 — Past Questions & Materials",
+    "papers": 3
+   },
+   "COS201": {
+    "title": "COS 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "COS202": {
+    "title": "COS 202 — Past Questions & Materials",
+    "papers": 6
+   },
+   "COS213": {
+    "title": "COS 213 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CPE101": {
+    "title": "CPE 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CPE314": {
+    "title": "CPE 314 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CPE324": {
+    "title": "CPE 324 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC111": {
+    "title": "CSC 111 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC124": {
+    "title": "CSC 124 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC125": {
+    "title": "CSC 125 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC202": {
+    "title": "CSC 202 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC211": {
+    "title": "CSC 211 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC212": {
+    "title": "CSC 212 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC222": {
+    "title": "CSC 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC223": {
+    "title": "CSC 223 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC224": {
+    "title": "CSC 224 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CSC301": {
+    "title": "CSC 301 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC309": {
+    "title": "CSC 309 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC311": {
+    "title": "CSC 311 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CSC312": {
+    "title": "CSC 312 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC313": {
+    "title": "CSC 313 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CSC314": {
+    "title": "CSC 314 — Past Questions & Materials",
+    "papers": 6
+   },
+   "CSC315": {
+    "title": "CSC 315 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CSC316": {
+    "title": "CSC 316 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC317": {
+    "title": "CSC 317 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CSC318": {
+    "title": "CSC 318 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC322": {
+    "title": "CSC 322 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CSC411": {
+    "title": "CSC 411 — Past Questions & Materials",
+    "papers": 9
+   },
+   "CSC412": {
+    "title": "CSC 412 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CSC413": {
+    "title": "CSC 413 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC414": {
+    "title": "CSC 414 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CSC415": {
+    "title": "CSC 415 — Past Questions & Materials",
+    "papers": 6
+   },
+   "CSC416": {
+    "title": "CSC 416 — Past Questions & Materials",
+    "papers": 4
+   },
+   "CSC421": {
+    "title": "CSC 421 — Past Questions & Materials",
+    "papers": 8
+   },
+   "CSC422": {
+    "title": "CSC 422 — Past Questions & Materials",
+    "papers": 6
+   },
+   "CSC423": {
+    "title": "CSC 423 — Past Questions & Materials",
+    "papers": 10
+   },
+   "CSC424": {
+    "title": "CSC 424 — Past Questions & Materials",
+    "papers": 8
+   },
+   "CSC425": {
+    "title": "CSC 425 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CSC427": {
+    "title": "CSC 427 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC428": {
+    "title": "CSC 428 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC429": {
+    "title": "CSC 429 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC434": {
+    "title": "CSC 434 — Past Questions & Materials",
+    "papers": 10
+   },
+   "CSSC412": {
+    "title": "CSSC 412 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CVC221": {
+    "title": "CVC 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CVE221": {
+    "title": "CVE 221 — Past Questions & Materials",
+    "papers": 5
+   },
+   "CVE312": {
+    "title": "CVE 312 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CYB102": {
+    "title": "CYB 102 — Past Questions & Materials",
+    "papers": 1
+   },
+   "DTS304": {
+    "title": "DTS 304 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU124": {
+    "title": "EDU 124 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU125": {
+    "title": "EDU 125 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU221": {
+    "title": "EDU 221 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EDU224": {
+    "title": "EDU 224 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EE322": {
+    "title": "EE 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEE211": {
+    "title": "EEE 211 — Past Questions & Materials",
+    "papers": 5
+   },
+   "EEE221": {
+    "title": "EEE 221 — Past Questions & Materials",
+    "papers": 6
+   },
+   "EEE222": {
+    "title": "EEE 222 — Past Questions & Materials",
+    "papers": 11
+   },
+   "EEE311": {
+    "title": "EEE 311 — Past Questions & Materials",
+    "papers": 5
+   },
+   "EEE312": {
+    "title": "EEE 312 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEE313": {
+    "title": "EEE 313 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEE315": {
+    "title": "EEE 315 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEE320": {
+    "title": "EEE 320 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEE321": {
+    "title": "EEE 321 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEE322": {
+    "title": "EEE 322 — Past Questions & Materials",
+    "papers": 4
+   },
+   "EEE323": {
+    "title": "EEE 323 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EEE324": {
+    "title": "EEE 324 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EEE411": {
+    "title": "EEE 411 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEE412": {
+    "title": "EEE 412 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEE414": {
+    "title": "EEE 414 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EEE525": {
+    "title": "EEE 525 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EEE533": {
+    "title": "EEE 533 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEE543": {
+    "title": "EEE 543 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EEE731": {
+    "title": "EEE 731 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT202": {
+    "title": "EMT 202 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT203": {
+    "title": "EMT 203 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT221": {
+    "title": "EMT 221 — Past Questions & Materials",
+    "papers": 4
+   },
+   "EMT222": {
+    "title": "EMT 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EMT223": {
+    "title": "EMT 223 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EMT224": {
+    "title": "EMT 224 — Past Questions & Materials",
+    "papers": 5
+   },
+   "EMT225": {
+    "title": "EMT 225 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT226": {
+    "title": "EMT 226 — Past Questions & Materials",
+    "papers": 7
+   },
+   "EMT227": {
+    "title": "EMT 227 — Past Questions & Materials",
+    "papers": 7
+   },
+   "EMT311": {
+    "title": "EMT 311 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT313": {
+    "title": "EMT 313 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT315": {
+    "title": "EMT 315 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT317": {
+    "title": "EMT 317 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT318": {
+    "title": "EMT 318 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT319": {
+    "title": "EMT 319 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT321": {
+    "title": "EMT 321 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT322": {
+    "title": "EMT 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT323": {
+    "title": "EMT 323 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT324": {
+    "title": "EMT 324 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT325": {
+    "title": "EMT 325 — Past Questions & Materials",
+    "papers": 4
+   },
+   "EMT326": {
+    "title": "EMT 326 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT327": {
+    "title": "EMT 327 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT329": {
+    "title": "EMT 329 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT411": {
+    "title": "EMT 411 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT412": {
+    "title": "EMT 412 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EMT413": {
+    "title": "EMT 413 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EMT414": {
+    "title": "EMT 414 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT415": {
+    "title": "EMT 415 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT416": {
+    "title": "EMT 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT417": {
+    "title": "EMT 417 — Past Questions & Materials",
+    "papers": 4
+   },
+   "EMT418": {
+    "title": "EMT 418 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT419": {
+    "title": "EMT 419 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT430": {
+    "title": "EMT 430 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EMT433": {
+    "title": "EMT 433 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT434": {
+    "title": "EMT 434 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT435": {
+    "title": "EMT 435 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT436": {
+    "title": "EMT 436 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT437": {
+    "title": "EMT 437 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT523": {
+    "title": "EMT 523 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT526": {
+    "title": "EMT 526 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT528": {
+    "title": "EMT 528 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT529": {
+    "title": "EMT 529 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT534": {
+    "title": "EMT 534 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EMT541": {
+    "title": "EMT 541 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ENG200": {
+    "title": "ENG 200 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ENT211": {
+    "title": "ENT 211 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GET101": {
+    "title": "GET 101 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GET102": {
+    "title": "GET 102 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GET111": {
+    "title": "GET 111 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GET201": {
+    "title": "GET 201 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GET202": {
+    "title": "GET 202 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GET203": {
+    "title": "GET 203 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GET205": {
+    "title": "GET 205 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GET206": {
+    "title": "GET 206 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GET207": {
+    "title": "GET 207 — Past Questions & Materials",
+    "papers": 4
+   },
+   "GET209": {
+    "title": "GET 209 — Past Questions & Materials",
+    "papers": 5
+   },
+   "GET210": {
+    "title": "GET 210 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GET211": {
+    "title": "GET 211 — Past Questions & Materials",
+    "papers": 8
+   },
+   "GET212": {
+    "title": "GET 212 — Past Questions & Materials",
+    "papers": 4
+   },
+   "GET221": {
+    "title": "GET 221 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GET222": {
+    "title": "GET 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GET311": {
+    "title": "GET 311 — Past Questions & Materials",
+    "papers": 8
+   },
+   "GET321": {
+    "title": "GET 321 — Past Questions & Materials",
+    "papers": 6
+   },
+   "GET322": {
+    "title": "GET 322 — Past Questions & Materials",
+    "papers": 5
+   },
+   "GET411": {
+    "title": "GET 411 — Past Questions & Materials",
+    "papers": 8
+   },
+   "GET511": {
+    "title": "GET 511 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GET521": {
+    "title": "GET 521 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GEY203": {
+    "title": "GEY 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY114": {
+    "title": "GLY 114 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY208": {
+    "title": "GLY 208 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY312": {
+    "title": "GLY 312 — Past Questions & Materials",
+    "papers": 4
+   },
+   "GLY313": {
+    "title": "GLY 313 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY314": {
+    "title": "GLY 314 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GLY315": {
+    "title": "GLY 315 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY316": {
+    "title": "GLY 316 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GLY322": {
+    "title": "GLY 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY417": {
+    "title": "GLY 417 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GLY421": {
+    "title": "GLY 421 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GLY422": {
+    "title": "GLY 422 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GPH222": {
+    "title": "GPH 222 — Past Questions & Materials",
+    "papers": 4
+   },
+   "GPH311": {
+    "title": "GPH 311 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GPH314": {
+    "title": "GPH 314 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GPH414": {
+    "title": "GPH 414 — Past Questions & Materials",
+    "papers": 4
+   },
+   "GPH417": {
+    "title": "GPH 417 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GPH423": {
+    "title": "GPH 423 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST111": {
+    "title": "GST 111 — Past Questions & Materials",
+    "papers": 10
+   },
+   "GST112": {
+    "title": "GST 112 — Past Questions & Materials",
+    "papers": 11
+   },
+   "GST113": {
+    "title": "GST 113 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GST114": {
+    "title": "GST 114 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST121": {
+    "title": "GST 121 — Past Questions & Materials",
+    "papers": 5
+   },
+   "GST122": {
+    "title": "GST 122 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST123": {
+    "title": "GST 123 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GST124": {
+    "title": "GST 124 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST211": {
+    "title": "GST 211 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST212": {
+    "title": "GST 212 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST221": {
+    "title": "GST 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST223": {
+    "title": "GST 223 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST224": {
+    "title": "GST 224 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GST311": {
+    "title": "GST 311 — Past Questions & Materials",
+    "papers": 2
+   },
+   "ICH201": {
+    "title": "ICH 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ICH252": {
+    "title": "ICH 252 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ICT305": {
+    "title": "ICT 305 — Past Questions & Materials",
+    "papers": 1
+   },
+   "II312": {
+    "title": "II 312 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAEF101": {
+    "title": "MAEF 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAEF103": {
+    "title": "MAEF 103 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAEF201": {
+    "title": "MAEF 201 — Past Questions & Materials",
+    "papers": 5
+   },
+   "MAR310": {
+    "title": "MAR 310 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR311": {
+    "title": "MAR 311 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR313": {
+    "title": "MAR 313 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR314": {
+    "title": "MAR 314 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR321": {
+    "title": "MAR 321 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR322": {
+    "title": "MAR 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR323": {
+    "title": "MAR 323 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR324": {
+    "title": "MAR 324 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MAR325": {
+    "title": "MAR 325 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR326": {
+    "title": "MAR 326 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MAR415": {
+    "title": "MAR 415 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MAR521": {
+    "title": "MAR 521 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR522": {
+    "title": "MAR 522 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR523": {
+    "title": "MAR 523 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAR524": {
+    "title": "MAR 524 — Past Questions & Materials",
+    "papers": 5
+   },
+   "MATL101": {
+    "title": "MATL 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MATL215": {
+    "title": "MATL 215 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MECH511": {
+    "title": "MECH 511 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE211": {
+    "title": "MEE 211 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MEE212": {
+    "title": "MEE 212 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MEE213": {
+    "title": "MEE 213 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MEE214": {
+    "title": "MEE 214 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MEE215": {
+    "title": "MEE 215 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MEE216": {
+    "title": "MEE 216 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MEE221": {
+    "title": "MEE 221 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MEE222": {
+    "title": "MEE 222 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MEE224": {
+    "title": "MEE 224 — Past Questions & Materials",
+    "papers": 5
+   },
+   "MEE231": {
+    "title": "MEE 231 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE311": {
+    "title": "MEE 311 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE312": {
+    "title": "MEE 312 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MEE313": {
+    "title": "MEE 313 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MEE315": {
+    "title": "MEE 315 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MEE316": {
+    "title": "MEE 316 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MEE317": {
+    "title": "MEE 317 — Past Questions & Materials",
+    "papers": 9
+   },
+   "MEE322": {
+    "title": "MEE 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE323": {
+    "title": "MEE 323 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MEE325": {
+    "title": "MEE 325 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE411": {
+    "title": "MEE 411 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MEE414": {
+    "title": "MEE 414 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE415": {
+    "title": "MEE 415 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE416": {
+    "title": "MEE 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEE417": {
+    "title": "MEE 417 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MS201": {
+    "title": "MS 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH101": {
+    "title": "MTH 101 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MTH102": {
+    "title": "MTH 102 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MTH103": {
+    "title": "MTH 103 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MTH111": {
+    "title": "MTH 111 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH112": {
+    "title": "MTH 112 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH121": {
+    "title": "MTH 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH123": {
+    "title": "MTH 123 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH201": {
+    "title": "MTH 201 — Past Questions & Materials",
+    "papers": 11
+   },
+   "MTH202": {
+    "title": "MTH 202 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH203": {
+    "title": "MTH 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH204": {
+    "title": "MTH 204 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH205": {
+    "title": "MTH 205 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH207": {
+    "title": "MTH 207 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH209": {
+    "title": "MTH 209 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH211": {
+    "title": "MTH 211 — Past Questions & Materials",
+    "papers": 4
+   },
+   "MTH212": {
+    "title": "MTH 212 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH213": {
+    "title": "MTH 213 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MTH214": {
+    "title": "MTH 214 — Past Questions & Materials",
+    "papers": 6
+   },
+   "MTH215": {
+    "title": "MTH 215 — Past Questions & Materials",
+    "papers": 5
+   },
+   "MTH217": {
+    "title": "MTH 217 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH219": {
+    "title": "MTH 219 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH221": {
+    "title": "MTH 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH222": {
+    "title": "MTH 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH223": {
+    "title": "MTH 223 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH224": {
+    "title": "MTH 224 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH225": {
+    "title": "MTH 225 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH226": {
+    "title": "MTH 226 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH302": {
+    "title": "MTH 302 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH311": {
+    "title": "MTH 311 — Past Questions & Materials",
+    "papers": 3
+   },
+   "MTH312": {
+    "title": "MTH 312 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH313": {
+    "title": "MTH 313 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH314": {
+    "title": "MTH 314 — Past Questions & Materials",
+    "papers": 5
+   },
+   "MTH315": {
+    "title": "MTH 315 — Past Questions & Materials",
+    "papers": 7
+   },
+   "MTH316": {
+    "title": "MTH 316 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH321": {
+    "title": "MTH 321 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH322": {
+    "title": "MTH 322 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH323": {
+    "title": "MTH 323 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH411": {
+    "title": "MTH 411 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH412": {
+    "title": "MTH 412 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH413": {
+    "title": "MTH 413 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH414": {
+    "title": "MTH 414 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH415": {
+    "title": "MTH 415 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH416": {
+    "title": "MTH 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH421": {
+    "title": "MTH 421 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH422": {
+    "title": "MTH 422 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH423": {
+    "title": "MTH 423 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH424": {
+    "title": "MTH 424 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTHS221": {
+    "title": "MTHS 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NGE311": {
+    "title": "NGE 311 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PCE203": {
+    "title": "PCE 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PCE204": {
+    "title": "PCE 204 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PCM201": {
+    "title": "PCM 201 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE102": {
+    "title": "PEE 102 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PEE211": {
+    "title": "PEE 211 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PEE221": {
+    "title": "PEE 221 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE302": {
+    "title": "PEE 302 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE311": {
+    "title": "PEE 311 — Past Questions & Materials",
+    "papers": 6
+   },
+   "PEE312": {
+    "title": "PEE 312 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PEE313": {
+    "title": "PEE 313 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PEE314": {
+    "title": "PEE 314 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PEE320": {
+    "title": "PEE 320 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PEE321": {
+    "title": "PEE 321 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PEE322": {
+    "title": "PEE 322 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE324": {
+    "title": "PEE 324 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE325": {
+    "title": "PEE 325 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE326": {
+    "title": "PEE 326 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PEE410": {
+    "title": "PEE 410 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PEE412": {
+    "title": "PEE 412 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE413": {
+    "title": "PEE 413 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE414": {
+    "title": "PEE 414 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PEE415": {
+    "title": "PEE 415 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE417": {
+    "title": "PEE 417 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE511": {
+    "title": "PEE 511 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE513": {
+    "title": "PEE 513 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE514": {
+    "title": "PEE 514 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE515": {
+    "title": "PEE 515 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEE516": {
+    "title": "PEE 516 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PEE520": {
+    "title": "PEE 520 — Past Questions & Materials",
+    "papers": 8
+   },
+   "PEE521": {
+    "title": "PEE 521 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PEE523": {
+    "title": "PEE 523 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PEE524": {
+    "title": "PEE 524 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PEER314": {
+    "title": "PEER 314 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY101": {
+    "title": "PHY 101 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY102": {
+    "title": "PHY 102 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PHY104": {
+    "title": "PHY 104 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY119": {
+    "title": "PHY 119 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY121": {
+    "title": "PHY 121 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY122": {
+    "title": "PHY 122 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PHY205": {
+    "title": "PHY 205 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY211": {
+    "title": "PHY 211 — Past Questions & Materials",
+    "papers": 7
+   },
+   "PHY212": {
+    "title": "PHY 212 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PHY213": {
+    "title": "PHY 213 — Past Questions & Materials",
+    "papers": 9
+   },
+   "PHY219": {
+    "title": "PHY 219 — Past Questions & Materials",
+    "papers": 7
+   },
+   "PHY221": {
+    "title": "PHY 221 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PHY222": {
+    "title": "PHY 222 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PHY223": {
+    "title": "PHY 223 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY229": {
+    "title": "PHY 229 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY300": {
+    "title": "PHY 300 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PHY311": {
+    "title": "PHY 311 — Past Questions & Materials",
+    "papers": 15
+   },
+   "PHY312": {
+    "title": "PHY 312 — Past Questions & Materials",
+    "papers": 6
+   },
+   "PHY313": {
+    "title": "PHY 313 — Past Questions & Materials",
+    "papers": 7
+   },
+   "PHY314": {
+    "title": "PHY 314 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PHY315": {
+    "title": "PHY 315 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PHY316": {
+    "title": "PHY 316 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PHY411": {
+    "title": "PHY 411 — Past Questions & Materials",
+    "papers": 6
+   },
+   "PHY412": {
+    "title": "PHY 412 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY413": {
+    "title": "PHY 413 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY414": {
+    "title": "PHY 414 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY415": {
+    "title": "PHY 415 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY417": {
+    "title": "PHY 417 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY418": {
+    "title": "PHY 418 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PHY421": {
+    "title": "PHY 421 — Past Questions & Materials",
+    "papers": 4
+   },
+   "PNG310": {
+    "title": "PNG 310 — Past Questions & Materials",
+    "papers": 5
+   },
+   "PNG322": {
+    "title": "PNG 322 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PNG410": {
+    "title": "PNG 410 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PNG516": {
+    "title": "PNG 516 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PNG520": {
+    "title": "PNG 520 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PNG521": {
+    "title": "PNG 521 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PNG523": {
+    "title": "PNG 523 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PNG526": {
+    "title": "PNG 526 — Past Questions & Materials",
+    "papers": 2
+   },
+   "PTE311": {
+    "title": "PTE 311 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PTE316": {
+    "title": "PTE 316 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PTE321": {
+    "title": "PTE 321 — Past Questions & Materials",
+    "papers": 1
+   },
+   "STAT112": {
+    "title": "STAT 112 — Past Questions & Materials",
+    "papers": 1
+   },
+   "TCH302": {
+    "title": "TCH 302 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
