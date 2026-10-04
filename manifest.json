@@ -428,5 +428,15 @@
     "papers": 1
    }
   }
+ },
+ "crawford": {
+  "name": "Crawford University",
+  "short": "CRAWFORD",
+  "courses": {
+   "AMS102": {
+    "title": "AMS 102 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
