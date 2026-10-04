@@ -162,5 +162,127 @@
     "papers": 4
    }
   }
+ },
+ "coewarri": {
+  "name": "College of Education, Warri",
+  "short": "COE WARRI",
+  "courses": {
+   "BUS200": {
+    "title": "BUS 200 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU211": {
+    "title": "EDU 211 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EDU212": {
+    "title": "EDU 212 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU214": {
+    "title": "EDU 214 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EDU301": {
+    "title": "EDU 301 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU305": {
+    "title": "EDU 305 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU312": {
+    "title": "EDU 312 — Past Questions & Materials",
+    "papers": 2
+   },
+   "EDU313": {
+    "title": "EDU 313 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EDU402": {
+    "title": "EDU 402 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST102": {
+    "title": "GST 102 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS112": {
+    "title": "HIS 112 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS202": {
+    "title": "HIS 202 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS203": {
+    "title": "HIS 203 — Past Questions & Materials",
+    "papers": 2
+   },
+   "HIS205": {
+    "title": "HIS 205 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS206": {
+    "title": "HIS 206 — Past Questions & Materials",
+    "papers": 2
+   },
+   "HIS211": {
+    "title": "HIS 211 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS212": {
+    "title": "HIS 212 — Past Questions & Materials",
+    "papers": 2
+   },
+   "HIS213": {
+    "title": "HIS 213 — Past Questions & Materials",
+    "papers": 4
+   },
+   "HIS214": {
+    "title": "HIS 214 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS215": {
+    "title": "HIS 215 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS301": {
+    "title": "HIS 301 — Past Questions & Materials",
+    "papers": 4
+   },
+   "HIS302": {
+    "title": "HIS 302 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS303": {
+    "title": "HIS 303 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS305": {
+    "title": "HIS 305 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS307": {
+    "title": "HIS 307 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS311": {
+    "title": "HIS 311 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS315": {
+    "title": "HIS 315 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIS316": {
+    "title": "HIS 316 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HIST211": {
+    "title": "HIST 211 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
