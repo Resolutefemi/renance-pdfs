@@ -418,5 +418,15 @@
     "papers": 1
    }
   }
+ },
+ "evangel": {
+  "name": "Evangel University",
+  "short": "EVANGEL",
+  "courses": {
+   "MCB122": {
+    "title": "MCB 122 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
