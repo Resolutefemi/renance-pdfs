@@ -516,5 +516,39 @@
     "papers": 2
    }
   }
+ },
+ "fubk": {
+  "name": "Federal University, Birnin Kebbi",
+  "short": "FUBK",
+  "courses": {
+   "ACC201": {
+    "title": "ACC 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ACC405": {
+    "title": "ACC 405 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ACC407": {
+    "title": "ACC 407 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ACC409": {
+    "title": "ACC 409 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ACC410": {
+    "title": "ACC 410 — Past Questions & Materials",
+    "papers": 1
+   },
+   "BCH402": {
+    "title": "BCH 402 — Past Questions & Materials",
+    "papers": 1
+   },
+   "BUS403": {
+    "title": "BUS 403 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
