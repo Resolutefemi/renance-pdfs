@@ -284,5 +284,139 @@
     "papers": 1
    }
   }
+ },
+ "uniport": {
+  "name": "University of Port Harcourt",
+  "short": "UNIPORT",
+  "courses": {
+   "ACC121": {
+    "title": "ACC 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM101": {
+    "title": "CHM 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM121": {
+    "title": "CHM 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST121": {
+    "title": "GST 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST122": {
+    "title": "GST 122 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST123": {
+    "title": "GST 123 — Past Questions & Materials",
+    "papers": 1
+   },
+   "HDS100": {
+    "title": "HDS 100 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MAC121": {
+    "title": "MAC 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH105": {
+    "title": "MTH 105 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PAD211": {
+    "title": "PAD 211 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY102": {
+    "title": "PHY 102 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL101": {
+    "title": "POL 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL201": {
+    "title": "POL 201 — Past Questions & Materials",
+    "papers": 2
+   },
+   "POL202": {
+    "title": "POL 202 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL203": {
+    "title": "POL 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL350": {
+    "title": "POL 350 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL351": {
+    "title": "POL 351 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL352": {
+    "title": "POL 352 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL353": {
+    "title": "POL 353 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL355": {
+    "title": "POL 355 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL357": {
+    "title": "POL 357 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL358": {
+    "title": "POL 358 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL359": {
+    "title": "POL 359 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL360": {
+    "title": "POL 360 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL440": {
+    "title": "POL 440 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL450": {
+    "title": "POL 450 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL452": {
+    "title": "POL 452 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL453": {
+    "title": "POL 453 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL454": {
+    "title": "POL 454 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL456": {
+    "title": "POL 456 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POL457": {
+    "title": "POL 457 — Past Questions & Materials",
+    "papers": 1
+   },
+   "POS101": {
+    "title": "POS 101 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
