@@ -498,5 +498,23 @@
     "papers": 1
    }
   }
+ },
+ "fedpolyilaro": {
+  "name": "Federal Polytechnic, Ilaro",
+  "short": "FEDPOLY ILARO",
+  "courses": {
+   "BAM416": {
+    "title": "BAM 416 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GNS414": {
+    "title": "GNS 414 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GNS417": {
+    "title": "GNS 417 — Past Questions & Materials",
+    "papers": 2
+   }
+  }
  }
 }
