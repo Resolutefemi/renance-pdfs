@@ -648,5 +648,15 @@
     "papers": 2
    }
   }
+ },
+ "lasu": {
+  "name": "Lagos State University",
+  "short": "LASU",
+  "courses": {
+   "ENG112": {
+    "title": "ENG 112 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
