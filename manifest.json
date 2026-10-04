@@ -88,5 +88,79 @@
     "papers": 1
    }
   }
+ },
+ "aau": {
+  "name": "Ambrose Alli University, Ekpoma",
+  "short": "AAU",
+  "courses": {
+   "CSC201": {
+    "title": "CSC 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC203": {
+    "title": "CSC 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC204": {
+    "title": "CSC 204 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC205": {
+    "title": "CSC 205 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC211": {
+    "title": "CSC 211 — Past Questions & Materials",
+    "papers": 3
+   },
+   "CSC302": {
+    "title": "CSC 302 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC303": {
+    "title": "CSC 303 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC304": {
+    "title": "CSC 304 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC305": {
+    "title": "CSC 305 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC306": {
+    "title": "CSC 306 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC307": {
+    "title": "CSC 307 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC308": {
+    "title": "CSC 308 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC309": {
+    "title": "CSC 309 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ENT201": {
+    "title": "ENT 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ENT211": {
+    "title": "ENT 211 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST101": {
+    "title": "GST 101 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GST102": {
+    "title": "GST 102 — Past Questions & Materials",
+    "papers": 4
+   }
+  }
  }
 }
