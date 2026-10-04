@@ -438,5 +438,19 @@
     "papers": 1
    }
   }
+ },
+ "deltapoly": {
+  "name": "Delta State Polytechnic, Otefe-Oghara",
+  "short": "DELTAPOLY",
+  "courses": {
+   "ACC321": {
+    "title": "ACC 321 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ACC325": {
+    "title": "ACC 325 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
