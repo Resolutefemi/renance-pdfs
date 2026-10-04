@@ -3,49 +3,85 @@
   "name": "Federal University of Technology, Minna",
   "short": "FUT MINNA",
   "courses": {
+   "BIO111": {
+    "title": "BIO 111 — Past Questions & Materials",
+    "papers": 1
+   },
    "CHM101": {
     "title": "CHM 101 — Past Questions & Materials",
     "papers": 1
    },
+   "CHM111": {
+    "title": "CHM 111 — Past Questions & Materials",
+    "papers": 1
+   },
    "CHM112": {
     "title": "CHM 112 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    },
    "CHM191": {
     "title": "CHM 191 — Past Questions & Materials",
     "papers": 1
    },
+   "CMH101": {
+    "title": "CMH 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC101": {
+    "title": "CSC 101 — Past Questions & Materials",
+    "papers": 1
+   },
    "CSC111": {
     "title": "CSC 111 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    },
    "GST103": {
     "title": "GST 103 — Past Questions & Materials",
-    "papers": 1
+    "papers": 3
    },
    "GST104": {
     "title": "GST 104 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GST105": {
+    "title": "GST 105 — Past Questions & Materials",
     "papers": 1
    },
    "GST110": {
     "title": "GST 110 — Past Questions & Materials",
-    "papers": 1
+    "papers": 3
    },
    "GST121": {
     "title": "GST 121 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    },
    "MTH101": {
     "title": "MTH 101 — Past Questions & Materials",
-    "papers": 1
+    "papers": 3
    },
    "MTH112": {
     "title": "MTH 112 — Past Questions & Materials",
+    "papers": 3
+   },
+   "PHY103": {
+    "title": "PHY 103 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY113": {
+    "title": "PHY 113 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PLB111": {
+    "title": "PLB 111 — Past Questions & Materials",
+    "papers": 1
+   },
+   "SAT117": {
+    "title": "SAT 117 — Past Questions & Materials",
     "papers": 1
    },
    "STA117": {
     "title": "STA 117 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    }
   }
  },
