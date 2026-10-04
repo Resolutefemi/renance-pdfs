@@ -97,6 +97,10 @@
     "title": "CSC 201 — Past Questions & Materials",
     "papers": 1
    },
+   "CSC202": {
+    "title": "CSC 202 — Past Questions & Materials",
+    "papers": 1
+   },
    "CSC203": {
     "title": "CSC 203 — Past Questions & Materials",
     "papers": 1
@@ -113,17 +117,21 @@
     "title": "CSC 211 — Past Questions & Materials",
     "papers": 3
    },
+   "CSC215": {
+    "title": "CSC 215 — Past Questions & Materials",
+    "papers": 1
+   },
    "CSC302": {
     "title": "CSC 302 — Past Questions & Materials",
     "papers": 1
    },
    "CSC303": {
     "title": "CSC 303 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    },
    "CSC304": {
     "title": "CSC 304 — Past Questions & Materials",
-    "papers": 1
+    "papers": 3
    },
    "CSC305": {
     "title": "CSC 305 — Past Questions & Materials",
@@ -155,11 +163,15 @@
    },
    "GST101": {
     "title": "GST 101 — Past Questions & Materials",
-    "papers": 2
+    "papers": 3
    },
    "GST102": {
     "title": "GST 102 — Past Questions & Materials",
     "papers": 4
+   },
+   "GST222": {
+    "title": "GST 222 — Past Questions & Materials",
+    "papers": 1
    }
   }
  },
