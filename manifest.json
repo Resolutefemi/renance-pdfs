@@ -1,0 +1,52 @@
+{
+ "futminna": {
+  "name": "Federal University of Technology, Minna",
+  "short": "FUT MINNA",
+  "courses": {
+   "CHM101": {
+    "title": "CHM 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM112": {
+    "title": "CHM 112 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM191": {
+    "title": "CHM 191 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CSC111": {
+    "title": "CSC 111 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST103": {
+    "title": "GST 103 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST104": {
+    "title": "GST 104 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST110": {
+    "title": "GST 110 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GST121": {
+    "title": "GST 121 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH101": {
+    "title": "MTH 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH112": {
+    "title": "MTH 112 — Past Questions & Materials",
+    "papers": 1
+   },
+   "STA117": {
+    "title": "STA 117 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
+ }
+}
