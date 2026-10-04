@@ -48,5 +48,19 @@
     "papers": 1
    }
   }
+ },
+ "eksu": {
+  "name": "Ekiti State University",
+  "short": "EKSU",
+  "courses": {
+   "EDU301": {
+    "title": "EDU 301 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY102": {
+    "title": "PHY 102 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
