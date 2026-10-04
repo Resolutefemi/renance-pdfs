@@ -67,24 +67,108 @@
   "name": "Osun State University, Osogbo",
   "short": "UNIOSUN",
   "courses": {
+   "BIO101": {
+    "title": "BIO 101 — Past Questions & Materials",
+    "papers": 2
+   },
    "BIO203": {
     "title": "BIO 203 — Past Questions & Materials",
     "papers": 1
    },
+   "CHM101": {
+    "title": "CHM 101 — Past Questions & Materials",
+    "papers": 7
+   },
+   "CSC101": {
+    "title": "CSC 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GNS101": {
+    "title": "GNS 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "GNS103": {
+    "title": "GNS 103 — Past Questions & Materials",
+    "papers": 2
+   },
    "MCB201": {
     "title": "MCB 201 — Past Questions & Materials",
-    "papers": 1
+    "papers": 2
    },
    "MCB203": {
     "title": "MCB 203 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MCB303": {
+    "title": "MCB 303 — Past Questions & Materials",
     "papers": 1
    },
    "MCB305": {
     "title": "MCB 305 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MCB307": {
+    "title": "MCB 307 — Past Questions & Materials",
     "papers": 1
    },
    "MTH101": {
     "title": "MTH 101 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MTH105": {
+    "title": "MTH 105 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NRSG531": {
+    "title": "NRSG 531 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NSC413": {
+    "title": "NSC 413 — Past Questions & Materials",
+    "papers": 4
+   },
+   "NSC421": {
+    "title": "NSC 421 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NSG403": {
+    "title": "NSG 403 — Past Questions & Materials",
+    "papers": 8
+   },
+   "NSG405": {
+    "title": "NSG 405 — Past Questions & Materials",
+    "papers": 4
+   },
+   "NSG407": {
+    "title": "NSG 407 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NSG501": {
+    "title": "NSG 501 — Past Questions & Materials",
+    "papers": 7
+   },
+   "NSG503": {
+    "title": "NSG 503 — Past Questions & Materials",
+    "papers": 5
+   },
+   "NSG509": {
+    "title": "NSG 509 — Past Questions & Materials",
+    "papers": 1
+   },
+   "NSG511": {
+    "title": "NSG 511 — Past Questions & Materials",
+    "papers": 2
+   },
+   "NSG531": {
+    "title": "NSG 531 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PHY101": {
+    "title": "PHY 101 — Past Questions & Materials",
+    "papers": 7
+   },
+   "PHY103": {
+    "title": "PHY 103 — Past Questions & Materials",
     "papers": 1
    }
   }
