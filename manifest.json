@@ -62,5 +62,31 @@
     "papers": 1
    }
   }
+ },
+ "uniosun": {
+  "name": "Osun State University, Osogbo",
+  "short": "UNIOSUN",
+  "courses": {
+   "BIO203": {
+    "title": "BIO 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MCB201": {
+    "title": "MCB 201 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MCB203": {
+    "title": "MCB 203 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MCB305": {
+    "title": "MCB 305 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MTH101": {
+    "title": "MTH 101 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
