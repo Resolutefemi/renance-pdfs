@@ -3562,5 +3562,31 @@
     "size_bytes": 58729
    }
   }
+ },
+ "futa": {
+  "name": "Federal University of Technology, Akure",
+  "short": "FUTA",
+  "courses": {
+   "CSC203": {
+    "title": "CSC 203 — Past Questions & Materials",
+    "file": "futa-csc203-by-renance.pdf",
+    "size_bytes": 45552
+   },
+   "CYB203": {
+    "title": "CYB 203 — Past Questions & Materials",
+    "file": "futa-cyb203-by-renance.pdf",
+    "size_bytes": 47329
+   },
+   "ICT201": {
+    "title": "ICT 201 — Past Questions & Materials",
+    "file": "futa-ict201-by-renance.pdf",
+    "size_bytes": 45548
+   },
+   "IFT211": {
+    "title": "IFT 211 — Past Questions & Materials",
+    "file": "futa-ift211-by-renance.pdf",
+    "size_bytes": 45557
+   }
+  }
  }
 }
