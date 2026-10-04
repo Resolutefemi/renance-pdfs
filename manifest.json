@@ -452,5 +452,15 @@
     "papers": 1
    }
   }
+ },
+ "nsuk": {
+  "name": "Nasarawa State University, Keffi",
+  "short": "NSUK",
+  "courses": {
+   "PSY711": {
+    "title": "PSY 711 — Past Questions & Materials",
+    "papers": 1
+   }
+  }
  }
 }
