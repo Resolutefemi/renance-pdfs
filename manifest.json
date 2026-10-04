@@ -550,5 +550,103 @@
     "papers": 1
    }
   }
+ },
+ "pti": {
+  "name": "Petroleum Training Institute, Effurun",
+  "short": "PTI",
+  "courses": {
+   "CET123": {
+    "title": "CET 123 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CHM226": {
+    "title": "CHM 226 — Past Questions & Materials",
+    "papers": 1
+   },
+   "COM111": {
+    "title": "COM 111 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CTE111": {
+    "title": "CTE 111 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CTE112": {
+    "title": "CTE 112 — Past Questions & Materials",
+    "papers": 1
+   },
+   "CTE242": {
+    "title": "CTE 242 — Past Questions & Materials",
+    "papers": 2
+   },
+   "CTE243": {
+    "title": "CTE 243 — Past Questions & Materials",
+    "papers": 3
+   },
+   "EEC111": {
+    "title": "EEC 111 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEC115": {
+    "title": "EEC 115 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEC125": {
+    "title": "EEC 125 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EED413": {
+    "title": "EED 413 — Past Questions & Materials",
+    "papers": 1
+   },
+   "EEI431": {
+    "title": "EEI 431 — Past Questions & Materials",
+    "papers": 1
+   },
+   "ESM113": {
+    "title": "ESM 113 — Past Questions & Materials",
+    "papers": 2
+   },
+   "GNS101": {
+    "title": "GNS 101 — Past Questions & Materials",
+    "papers": 3
+   },
+   "GNS102": {
+    "title": "GNS 102 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MEC112": {
+    "title": "MEC 112 — Past Questions & Materials",
+    "papers": 2
+   },
+   "MEC413": {
+    "title": "MEC 413 — Past Questions & Materials",
+    "papers": 1
+   },
+   "MEC422": {
+    "title": "MEC 422 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PET101": {
+    "title": "PET 101 — Past Questions & Materials",
+    "papers": 1
+   },
+   "PET233": {
+    "title": "PET 233 — Past Questions & Materials",
+    "papers": 1
+   },
+   "SEC113": {
+    "title": "SEC 113 — Past Questions & Materials",
+    "papers": 1
+   },
+   "SEC114": {
+    "title": "SEC 114 — Past Questions & Materials",
+    "papers": 1
+   },
+   "STC111": {
+    "title": "STC 111 — Past Questions & Materials",
+    "papers": 2
+   }
+  }
  }
 }
